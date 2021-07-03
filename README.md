@@ -4,7 +4,7 @@
 
 
 
-## 🎓 I'm an Management Informatics student at the State Polytechnic of Jember
+## 🎓 I'm an Informatics Management student at the State Polytechnic of Jember
 
 - 🔭 UI/UX, Front-End, Game, 2D Illustration Enthusiast.
 - ⚡ I love playing visual novel games.
