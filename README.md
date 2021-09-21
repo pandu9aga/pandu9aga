@@ -18,23 +18,6 @@
 
 <br />
 
-## :trophy: My Github Stats:
-
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=pandu9aga&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pandu9aga&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pandu9aga&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pandu9aga&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pandu9aga&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pandu9aga&theme=tokyonight" />
-</a>
-</div>
-
-
-
 [website]: https://github.com/pandu9aga
 [linkedin]: https://www.linkedin.com/in/m-pandu-gautama-wiranagara-2597881b3/
 [mail]: mailto:aga.wira96@gmail.com
