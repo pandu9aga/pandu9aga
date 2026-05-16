@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pandu 👋</h1>
 
 <h3 align="center">
-Software Engineer • Backend Developer • Digital Transformation Enthusiast
+Software Engineer • Machine Learning Engineer • FullStack Developer • Digital Transformation Enthusiast
 </h3>
 
 <p align="center">
@@ -23,8 +23,6 @@ Currently, my main focus is:
 - 🧠 Decision Support Systems (AHP, Recommendation Systems)
 - 🌐 Enterprise Information Systems
 - 🤖 Applied AI & Computer Vision
-
-I also aspire to pursue a Master's degree in Computer Engineering / Computer Science to deepen my expertise in intelligent systems and technology innovation.
 
 ---
 
@@ -118,17 +116,9 @@ My goal is to build impactful technology that improves how organizations work, m
 
 ---
 
-## 📚 Currently Learning
-
-- System Architecture
-- Advanced Backend Engineering
-- Vue Ecosystem
-- Applied Machine Learning
-
----
-
 ## 📫 Connect With Me
 
+- Website: https://pandu-aga.site
 - GitHub: https://github.com/pandu9aga
 - LinkedIn: https://www.linkedin.com/in/m-pandu-gautama-wiranagara
 
